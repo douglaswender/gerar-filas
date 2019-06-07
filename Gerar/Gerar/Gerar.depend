@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1529033728 source:c:\users\dougl\documents\projetos c\gerar\gerar\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"FileManager.h"
+	"Senhas.h"
+
+1528835165 c:\users\dougl\documents\projetos c\gerar\gerar\filemanager.h
+
+1528931013 c:\users\dougl\documents\projetos c\gerar\gerar\senhas.h
+
+1526716793 source:c:\users\dougl\documents\projetos c\gerar\gerar\senhas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Senhas.h"
+
+1528944539 source:c:\users\dougl\documents\projetos c\gerar\gerar\filemanager.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"FileManager.h"
+	"Senhas.h"
+

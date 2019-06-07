@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1529031651 source:c:\users\dougl\documents\projetos c\gerar\pegar\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"pegar.h"
+
+1529030773 c:\users\dougl\documents\projetos c\gerar\pegar\pegar.h
+
+1529376800 source:c:\users\dougl\documents\projetos c\gerar\pegar\pegar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pegar.h"
+

@@ -1,0 +1,55 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <windows.h>
+#include "pegar.h"
+//teste de save
+int op;
+
+int main()
+{
+    Fila* filaNormal = criaFila();
+    Fila* filaPref = criaFila();
+    Fila* filaCaixa = criaFila();
+
+    do{
+        system("cls");
+        printf("Bem vindo(a) o que deseja fazer?\n");
+        printf("1 - Chamar o proximo da fila normal\n");
+        printf("2 - Chamar o proximo da fila preferencial\n");
+        printf("3 - Chamar o proximo da fila do caixa\n");
+        printf("0 - Sair\n");
+        scanf("%d", &op);
+
+        switch(op){
+        case 1:
+            //Ler arquivo de texto normal e adicionar todos em uma lista
+            ListarNormal(filaNormal);
+
+            getchar();
+            getchar();
+            //remover o primeiro
+            //removeFila(filaNormal);
+            //reescrever o arquivo
+            //imprimeFilaNormal(filaNormal);
+            break;
+        case 2:
+
+            break;
+        case 3:
+
+            break;
+        case 0:
+            system("cls");
+            printf("Voce saiu do sistema!\n");
+            op = 0;
+            break;
+        default:
+            system("cls");
+            printf("Erro 207!");
+            Sleep(3000);
+            break;
+        }
+
+    }while(op!=0);
+
+}

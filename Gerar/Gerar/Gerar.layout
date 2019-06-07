@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="main.c" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="-9" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="196" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="FileManager.h" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="357" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="FileManager.c" open="1" top="1" tabpos="2" split="0" active="1" splitpos="0" zoom_1="-8" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2363" topLine="4" />
+		</Cursor>
+	</File>
+	<File name="Senhas.c" open="0" top="0" tabpos="4" split="2" active="1" splitpos="661" zoom_1="-6" zoom_2="-6">
+		<Cursor>
+			<Cursor1 position="2510" topLine="89" />
+			<Cursor2 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Senhas.h" open="0" top="0" tabpos="5" split="2" active="1" splitpos="764" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="58" topLine="0" />
+			<Cursor2 position="129" topLine="0" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
